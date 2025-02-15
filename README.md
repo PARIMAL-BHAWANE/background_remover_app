@@ -15,7 +15,7 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/PARIMAL-BHAWANE/background_remover_app
    cd background_remover_app
    ```
 
